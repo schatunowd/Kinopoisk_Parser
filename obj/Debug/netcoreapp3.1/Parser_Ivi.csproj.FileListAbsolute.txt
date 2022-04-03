@@ -1,0 +1,32 @@
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.exe
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.deps.json
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.runtimeconfig.json
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.runtimeconfig.dev.json
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.dll
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.pdb
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.csproj.AssemblyReference.cache
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.AssemblyInfoInputs.cache
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.AssemblyInfo.cs
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.csproj.CoreCompileInputs.cache
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.dll
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.pdb
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.genruntimeconfig.cache
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\study\4 курс 2 семестр\диплом\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.exe
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.deps.json
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.runtimeconfig.json
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.runtimeconfig.dev.json
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Ivi.pdb
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.csproj.AssemblyReference.cache
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.AssemblyInfoInputs.cache
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.AssemblyInfo.cs
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.csproj.CoreCompileInputs.cache
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.pdb
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Ivi.genruntimeconfig.cache

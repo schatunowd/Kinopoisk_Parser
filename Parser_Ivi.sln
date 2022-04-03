@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parser_Kinopoisk_AllReviews", "Parser_Kinopoisk_AllReviews.csproj", "{88F0BDF0-CA7A-488E-A997-75FB5B428CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser_Kinopoisk_PositiveNegative", "..\Parser_Kinopoisk_PositiveNegative\Parser_Kinopoisk_PositiveNegative.csproj", "{9390E0D1-9BE6-496D-838A-D5C39B385737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88F0BDF0-CA7A-488E-A997-75FB5B428CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88F0BDF0-CA7A-488E-A997-75FB5B428CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88F0BDF0-CA7A-488E-A997-75FB5B428CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88F0BDF0-CA7A-488E-A997-75FB5B428CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9390E0D1-9BE6-496D-838A-D5C39B385737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9390E0D1-9BE6-496D-838A-D5C39B385737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9390E0D1-9BE6-496D-838A-D5C39B385737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9390E0D1-9BE6-496D-838A-D5C39B385737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8745667-4B9E-4E0C-BF7A-E781BAC2D6A0}
+	EndGlobalSection
+EndGlobal

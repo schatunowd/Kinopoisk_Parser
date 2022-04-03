@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wSaCEiuhm+TRlmnaVkXBR9nbHF4JF0fmT5PgmIPICTBGubuMJ0rf4s67MgzdOMhgU+mmWSBPt9fqGjzxCRFTgw==",
+  "success": true,
+  "projectFilePath": "D:\\study\\4.2\\diplom\\Парсер\\Parser_Ivi\\Parser_Kinopoisk_AllReviews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

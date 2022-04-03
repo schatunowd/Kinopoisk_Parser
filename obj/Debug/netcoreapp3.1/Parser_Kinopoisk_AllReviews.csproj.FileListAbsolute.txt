@@ -1,0 +1,16 @@
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.exe
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.deps.json
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.runtimeconfig.json
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.runtimeconfig.dev.json
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.pdb
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.csproj.AssemblyReference.cache
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.AssemblyInfoInputs.cache
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.AssemblyInfo.cs
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.csproj.CoreCompileInputs.cache
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.dll
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.pdb
+D:\study\4.2\diplom\Парсер\Parser_Ivi\obj\Debug\netcoreapp3.1\Parser_Kinopoisk_AllReviews.genruntimeconfig.cache
