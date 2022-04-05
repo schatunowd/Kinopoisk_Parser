@@ -77,7 +77,7 @@ namespace Parser_Kinopoisk_AllReviews
         {
             WebRequest request = WebRequest.Create("https://kinopoiskapiunofficial.tech/api/v2.1/films/search-by-keyword?keyword=" + filmName + "&page=1");
             request.Headers.Add("accept", "application/json");
-            request.Headers.Add("X-API-KEY", "6b82396f-93f4-4bb7-86e1-571960f22be0");
+            request.Headers.Add("X-API-KEY", "YOUR API-KEY");
             WebResponse response = request.GetResponse();
             string answer = "";
             using (Stream stream = response.GetResponseStream())
@@ -105,7 +105,7 @@ namespace Parser_Kinopoisk_AllReviews
             {
                 WebRequest request = WebRequest.Create("https://kinopoiskapiunofficial.tech/api/v1/reviews?filmId=" + filmId + "&page=" + pagesCounter);
                 request.Headers.Add("accept", "application/json");
-                request.Headers.Add("X-API-KEY", "6b82396f-93f4-4bb7-86e1-571960f22be0");
+                request.Headers.Add("X-API-KEY", "YOUR API-KEY");
                 WebResponse response = request.GetResponse();
                 string answer = "";
                 using (Stream stream = response.GetResponseStream())
